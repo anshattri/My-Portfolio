@@ -17,7 +17,7 @@ To view this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/your-portfolio-repo.git
+git clone https://github.com/anshattri/your-portfolio-repo.git
 Navigate to the project directory:
 bash
 Copy code
